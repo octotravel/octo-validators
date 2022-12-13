@@ -1,12 +1,5 @@
-// const STATUS_SUCCESS = 200;
 export const STATUS_BAD_REQUEST = 400;
-// const STATUS_UNAUTHORIZED = 401;
-// const STATUS_FORBIDDEN = 403;
 export const STATUS_NOT_FOUND = 404;
-const STATUS_INTERNAL_SERVER_ERROR = 500;
-// const MESSAGE_BAD_REQUEST = "Bad Request";
-// const MESSAGE_UNAUTHORIZED = "Unauthorized";
-// const MESSAGE_INTERNAL_SERVER_ERROR = "Internal Server Error";
 
 export const INVALID_PRODUCT_ID = "INVALID_PRODUCT_ID";
 export const INVALID_OPTION_ID = "INVALID_OPTION_ID";
