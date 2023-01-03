@@ -1,4 +1,4 @@
-import { Result } from './../../types/api';
+import { Result } from './../../types/Api';
 import { NumberValidator } from "./../ValidatorHelpers";
 import {
   STATUS_BAD_REQUEST,

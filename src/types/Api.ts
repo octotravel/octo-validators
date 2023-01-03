@@ -3,7 +3,6 @@ export interface ValidatedError {
     status: number;
   }
   
-  
   export type ApiParams = {
     headers?: Record<string, string>;
   };
